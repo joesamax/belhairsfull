@@ -1,0 +1,6 @@
+@import 'partials/menu_item'; // menu_item
+
+form.checkout .woocommerce-shipping-calculator,
+form.checkout .shipping-calculator-button{
+  display: none!important;
+}

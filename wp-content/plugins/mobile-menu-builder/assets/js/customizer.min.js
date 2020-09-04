@@ -1,0 +1,1 @@
+!function(n,e){wp.customize.panel("mobile_menu_builder_panel",function(e){e.expanded.bind(function(e){e&&n("body").addClass("preview-mobile")})})}(jQuery,wp.customize);

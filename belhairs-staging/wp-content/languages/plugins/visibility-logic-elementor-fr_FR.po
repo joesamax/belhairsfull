@@ -1,0 +1,56 @@
+# Translation of Plugins - Visibility Logic for Elementor - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Visibility Logic for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-11 14:39:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Visibility Logic for Elementor - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://seventhqueen.com"
+msgstr "https://seventhqueen.com"
+
+#: Elementor_Visibility_Control.php:98
+msgid "Hidden for:"
+msgstr "Masqué pour :"
+
+#: Elementor_Visibility_Control.php:82
+msgid "Visible for:"
+msgstr "Visible pour :"
+
+#: Elementor_Visibility_Control.php:73
+msgid "No"
+msgstr "Non"
+
+#: Elementor_Visibility_Control.php:72
+msgid "Yes"
+msgstr "Oui"
+
+#: Elementor_Visibility_Control.php:69
+msgid "Enable Conditions"
+msgstr "Activer les conditions"
+
+#: Elementor_Visibility_Control.php:54
+msgid "Visibility control"
+msgstr "Contrôle de visibilité"
+
+#. Author of the plugin
+msgid "SeventhQueen"
+msgstr "SeventhQueen"
+
+#. Description of the plugin
+msgid "Hide or show Elementor widgets based on user conditions"
+msgstr "Masquer ou afficher les widgets Elementor en fonction des conditions utilisateur"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/visibility-logic-elementor"
+msgstr "https://wordpress.org/plugins/visibility-logic-elementor"
+
+#. Plugin Name of the plugin
+msgid "Visibility Logic for Elementor"
+msgstr "Visibility Logic for Elementor"

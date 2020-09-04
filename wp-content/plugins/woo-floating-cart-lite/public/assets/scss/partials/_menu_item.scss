@@ -1,0 +1,26 @@
+.xt_woofc-menu{
+
+  &.xt_woofc-menu-align-left{
+    float: left!important;
+  }
+  &.xt_woofc-menu-align-right{
+    float: right!important;
+  }
+
+  &.xt_woofc-menu-hide-empty.xt_woofc-menu-empty{
+    display: none!important;
+  }
+
+}
+
+.xt_woofc-menu-icon {
+  margin: 0 0.60em 0 0;
+  &:before {
+    display: inline-block;
+  }
+}
+
+.xt_woofc-menu-count + .xt_woofc-menu-amount:before{
+  content: '-';
+  margin: 0 0.25em;
+}

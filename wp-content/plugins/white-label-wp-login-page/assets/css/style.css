@@ -1,0 +1,208 @@
+html { visibility:hidden; }
+
+body {
+    background: #F9F8F7;
+    color: #4c6379;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.login #backtoblog a, .login #nav a {
+    color: #7b90a5;
+    font-size: 1.2em;
+    font-weight: 300;
+}
+.login #backtoblog a:hover, .login #nav a:focus {
+    color: #037ccc;
+}
+
+#login {
+    width: 450px;
+    position: relative;;
+}
+
+.login form {
+    position: relative !important;
+    padding: 3em 3.2em 4em;
+    -webkit-box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.22);
+    box-shadow: 0px 0px 100px 0px rgba(0,0,0,0.22);
+}
+
+#login #wp-submit.button {
+    background-color: #0495f4;
+    border: 1px solid #0495f4;
+    color: #fff;
+    width: 100%;
+    margin: 1em auto 1.85em;
+    text-transform: uppercase;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    text-shadow: none;
+    border-radius: 4em;;
+    letter-spacing: .1em;
+    padding: 2em;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-size: .9em;
+    line-height: 0;
+
+
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+
+}
+
+#login #wp-submit.button:hover {
+    background: #16a1fb;
+    border: 1px solid #16a1fb;
+}
+
+
+.login-icon {
+    text-indent: -9999px;
+    width: 32px;
+    height: 32px;
+    background-image: none,url(../img/login-icon.svg);
+    -webkit-background-size: 32px;
+    background-size: 32px;
+    vertical-align: middle;
+    margin: 0 auto 1.8em;
+}
+
+.login-text {
+    font-size: 1.2em;
+    font-weight: bold;
+    letter-spacing: .15em;
+    text-align: center;
+    text-transform: uppercase;
+    color: #090e12;;
+}
+
+
+
+.login-divider {
+    background: #D5D6DA;
+    height: 1px;
+    margin: 1.8em auto 1.5em;
+    width: 2.2em;
+}
+
+.login #login_error, .login .message {
+    margin-bottom: 0;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: #008fed;
+    border-color: transparent;
+    color: #ffffff;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    z-index: 4000;
+}
+.login #login_error a, .login .message a {
+    color: #fff;
+}
+
+.login form .input {
+    background: transparent;
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-bottom: 1px solid #D5D6DA;
+    color: #5d7388;
+    font-size: 1.3em;
+    letter-spacing: 1px;
+    font-weight: 300;
+    padding: 1.25em 0 .5em;
+    -webkit-transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;
+}
+
+.login form .input:hover {
+    border-color: #5d7388;
+}
+
+.login form .input:hover:focus, .login form .input:focus {
+    border-color: #0495f4;
+}
+
+.login form .input::-webkit-input-placeholder {
+    color: #D5D6DA;
+    opacity: 1
+}
+.login form .input:-ms-input-placeholder {
+    color: #D5D6DA;
+    opacity: 1
+}
+.login form .input::placeholder {
+    color: #D5D6DA;
+    opacity: 1
+}
+.login form .input:disabled, .login form .input[readonly] {
+    background-color: #D5D6DA;
+    opacity: 1
+}
+.login form .input:disabled {
+    cursor: not-allowed
+}
+
+
+#login input:-webkit-autofill, #login textarea:-webkit-autofill, #login select:-webkit-autofill {
+    background: transparent !important;
+    -webkit-box-shadow: 0 0 0 30px white inset;
+}
+
+.login #backtoblog, .login #nav {
+    padding: 0 .5em;
+    clear: both;
+    letter-spacing: .05em;
+}
+.login #nav {
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+#reg_passmail {
+    color: #b3b1c1;
+    padding-bottom: 1em;
+}
+#reg_passmail::before {
+    content: "* ";
+}
+
+#login p#nav a:first-child {
+    float: left;
+}
+#login p#nav a:last-child {
+    float: right;
+}
+
+.forgetmenot {
+    padding: .3em 0 .5em;
+    position: absolute;
+    bottom: 20px;
+    letter-spacing: .05em;
+}
+.forgetmenot label {
+    color: #7b90a5;
+}
+
+input[type=checkbox]:checked:before {
+    color: #3297F0;
+}
+
+.interim-login #login {
+    max-width: 360px;
+}
+
+.interim-login.login #login_error, .interim-login.login .message {
+    padding: 10px;
+    font-size: 14px;
+}

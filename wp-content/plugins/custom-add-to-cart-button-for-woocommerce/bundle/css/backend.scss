@@ -1,0 +1,105 @@
+@import "../../src/css/iziToast";
+@import "../../src/css/spectrum";
+@import "../../src/css/fontello/fontello";
+@import "../../src/css/codemirror";
+@import "../../src/css/uikit";
+
+
+body {
+  #wpcontent {
+    background: #fff;
+  }
+
+}
+#uatc-manager, #bc-uatc-welcome-page {
+
+  [data-field=bc-uatc-pro-only] {
+    pointer-events: none;
+  }
+
+  .bc-uatc-upgrade-notice {
+    color: #0B82D9;
+    font-size: .8rem;
+    font-style: italic;
+  }
+
+  input[type=text], input[type=number], select, label, textarea {
+    display: block;
+    width: 100%; 
+    margin-bottom: 5px;
+    max-width: 100%;
+    font-size: .8rem;
+
+    &.w-400 {
+      width: 400px;
+    }
+  }
+  
+  #bc-atc-icon-selector {
+    label {
+      display: inline-block;
+      width: unset;
+      text-align: center;
+      
+      input {
+        display: block;
+        width: unset;
+        margin-top: 5px;
+        
+      }
+      
+      i {
+        display: block;
+        width: unset;
+        font-size: 20px;
+      }
+    }
+  }
+
+  input[type=text], input[type=number], select
+  {
+    // font-size: 1rem; 
+    height: 32px;
+    padding: 8px;
+  }
+
+  select {
+    padding: 0 8px;
+  }
+
+  label {
+    font-weight: 700;
+    padding: 0;
+    margin-top: 10px;
+  }
+
+  .bc-atc-explain {
+    padding: 5px 0;
+    margin: 0;
+    font-size: .8rem;
+    font-style: italic;
+  }
+
+  .bc-uatc-preview-image {
+    width: 32px;
+    height: 32px;
+  }
+
+  .bc-uatc-select-image {
+    height: 32px;
+    line-height: 32px;
+  }
+
+  #icon-preview {
+    font-size: 3em;
+  }
+
+  .bc-uatc-form-section {
+    border: 1px solid rgba(0,0,0,.11);
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px rgba(255,255,255, .22);
+    padding: 10px 20px;
+    background: #fff;
+    margin-bottom: 20px;
+  }
+}

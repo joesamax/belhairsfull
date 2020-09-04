@@ -1,0 +1,52 @@
+----------------------------------------------------------------------------------------------------------------------
+Woo Shortcodes Kit v 1.8.9 (11/06/20) by Alberto G. - https://disespubli.com/
+
+Included:
+
+= 1.8.9 =
+ *Changelog (11/06/20)
+
+NEWS
+-----------
+
++ Shortcode added on the function “Product Downloads/Sales counter”, now you can display a counter with the specific product by ID on any page, product or post.
+
++ Options added on the function “Product Downloads/Sales counter”, now you can choose where display the counters. If you was using this function before to this update, you need go to the function again and choose where you want to display it, remember save the changes!
+ 
+
+FIXED
+-----------
+
++ template: my-address.php, now display correctly the addresses without line spacing.
+
++ Products per page, now its have a highest priority to add the loop_shop_per_page filter.
+ 
+
+UPDATED
+-----------
+
++ Payments method shortcode, now its detect if WSHK PRO is active to display the custom PRO template.
+
++ Orders list shortcode, now its detect if WSHK PRO is active to display the custom PRO template.
+
++ Addresses shortcode, now its detect if WSHK PRO is active to display the custom PRO template.
+
++ Login form shortcode, now its redirect all the roles to the selected page.
+
++ English template
+
++ Spanish translation
+
++ Brazilian/Portuguese translation
+ 
+
+COMPATIBILITY TEST
+--------------------
+
++ Compatible with the new Easy My Account Builder 1.0.4
+
++ Compatible with WSHK PRO (old Custom Blocks & Redirections) v 1.1.0
+
++ Compatible with WordPress 5.4.2
+
++ Compatible with WooCommerce 4.2.0

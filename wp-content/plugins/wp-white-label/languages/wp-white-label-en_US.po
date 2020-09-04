@@ -1,0 +1,396 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP White Label Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-17 14:18+0000\n"
+"PO-Revision-Date: 2019-05-17 14:21+0000\n"
+"Last-Translator: caonguyen <caohat@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: includes/wp-white-label-functions.php:374
+#: includes/wp-white-label-functions.php:382
+msgid "Add a Styles, or run any JS script."
+msgstr ""
+
+#: includes/wp-white-label-functions.php:13
+#: includes/wp-white-label-setting-page.php:32
+msgid "Add Dashboard Widgets"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:410
+#: includes/wp-white-label-functions.php:428
+msgid "Add One ID The user is not hidden."
+msgstr ""
+
+#: includes/wp-white-label-setting-page.php:35
+msgid "Add Scripts / Styles"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:12
+msgid "Admin Area"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:171
+msgid "Admin footer credit"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:124
+msgid "Background image"
+msgstr ""
+
+#: includes/wp-white-label-setting-page.php:31
+msgid "Branding"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:39
+msgid "Change the sender address and name in WordPress outgoing emails."
+msgstr ""
+
+#: includes/wp-white-label-functions.php:135
+msgid "choose a color or image do background"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:106
+msgid "Company name"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:14
+#: includes/wp-white-label-setting-page.php:33
+msgid "Custom Dashboard Page"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:10
+msgid "Custom Menu"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:217
+msgid "Dashboard Content"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:211
+msgid "Dashboard Page Title"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:15
+msgid "Default Dashboard Widgets"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:9
+msgid "Email Branding"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:26
+#: includes/wp-white-label-functions.php:35
+#: includes/wp-white-label-functions.php:57
+#: includes/wp-white-label-functions.php:178
+#: includes/wp-white-label-functions.php:201
+#: includes/wp-white-label-functions.php:223
+#: includes/wp-white-label-functions.php:233
+#: includes/wp-white-label-functions.php:243
+#: includes/wp-white-label-functions.php:252
+#: includes/wp-white-label-functions.php:261
+#: includes/wp-white-label-functions.php:270
+#: includes/wp-white-label-functions.php:279
+#: includes/wp-white-label-functions.php:288
+#: includes/wp-white-label-functions.php:297
+#: includes/wp-white-label-functions.php:306
+#: includes/wp-white-label-functions.php:315
+#: includes/wp-white-label-functions.php:324
+#: includes/wp-white-label-functions.php:333
+#: includes/wp-white-label-functions.php:342
+#: includes/wp-white-label-functions.php:351
+#: includes/wp-white-label-functions.php:360
+#: includes/wp-white-label-functions.php:385
+#: includes/wp-white-label-functions.php:395
+#: includes/wp-white-label-functions.php:413
+msgid "Enable / Disable"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:183
+msgid "Enable Add Dashboard Widgets"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:62
+msgid "Enable Custom Admin Menu"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:207
+msgid "Enable Custom Dashboard Page"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:391
+msgid "Enable Disable Theme and Plugin Editors"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:41
+msgid "Enable Email Branding"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:401
+msgid "Enable Hidden The White Label Menu"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:419
+msgid "Enable Hidden The White Label on the Plugins page"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:229
+msgid "Enable Removes Default Dashboard Widgets"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:31
+msgid "Enable WP White Label"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:51
+msgid "Forms Email"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:45
+msgid "Forms Name"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:405
+#: includes/wp-white-label-functions.php:423
+msgid "Hidde Specific User "
+msgstr ""
+
+#: includes/wp-white-label-hidden-plugin.php:23
+msgid ""
+"Hidden the Plugins on the Plugin page \"wp-admin/plugins.php\". Prevent "
+"users from activating or deactivating."
+msgstr ""
+
+#: includes/wp-white-label-functions.php:417
+msgid ""
+"Hidden the White Label on the Plugins page. Prevent users from activating or "
+"deactivating.</br>Not hidden from the website creator \"Super Admin\""
+msgstr ""
+
+#: includes/wp-white-label-functions.php:18
+msgid "Hidden WP White Label"
+msgstr ""
+
+#: includes/wp-white-label-hidden-plugin.php:33
+msgid "Hide Plugins On The Plugin Page"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:399
+msgid ""
+"Hide the WP White Label admin menus for all users.</br>Not hidden from the "
+"website creator \"Super Admin\""
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://longvietweb.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://longvietweb.com/plugins/wp-white-label"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:11
+msgid "Login Page"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:118
+msgid "Logo"
+msgstr ""
+
+#. Author of the plugin
+msgid "LongViet"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:66
+msgid "Menu Background Color"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:98
+msgid "Menu Border Color"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:74
+msgid "Menu Color"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:130
+msgid "or background color"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:158
+msgid "or use your own logo"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:389
+msgid "Prevent editing themes and editing plugins."
+msgstr ""
+
+#: includes/wp-white-label-functions.php:139
+msgid "Remove Admin bar"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:239
+msgid "Remove All Dashboard Widgets"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:248
+msgid "Remove Dashboard Widgets Activity"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:347
+msgid "Remove Dashboard Widgets BBpress"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:338
+msgid "Remove Dashboard Widgets Elementor"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:365
+msgid "Remove Dashboard Widgets Gravity Forms"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:275
+msgid "Remove Dashboard Widgets Incoming Links"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:329
+msgid "Remove Dashboard Widgets Multi Language Plugin"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:302
+msgid "Remove Dashboard Widgets Other WordPress News"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:284
+msgid "Remove Dashboard Widgets Plugins"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:311
+msgid "Remove Dashboard Widgets Quick Press widget"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:266
+msgid "Remove Dashboard Widgets Recent Comments"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:320
+msgid "Remove Dashboard Widgets Recent Drafts"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:257
+msgid "Remove Dashboard Widgets Right Now"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:293
+msgid "Remove Dashboard Widgets WordPress.com Blog"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:356
+msgid "Remove Dashboard Widgets Yoast Seo"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:143
+msgid ""
+"Remove WordPress Admin Bar on the front of the site.</br>Except administrator"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:149
+msgid "Remove WordPress Logo in Admin bar"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:16
+#: includes/wp-white-label-setting-page.php:34
+msgid "Removes Dashboard Widgets"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:164
+msgid "Replace Howdy in Admin Bar"
+msgstr ""
+
+#: includes/wp-white-label-hidden-plugin.php:55
+#: includes/wp-white-label-setting-page.php:91
+msgid "Save Changes"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:17
+msgid "Scripts / Styles"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:369
+msgid "Scripts / Styles 1"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:377
+msgid "Scripts / Styles 2"
+msgstr ""
+
+#: includes/wp-white-label-hidden-plugin.php:44
+msgid "Select Plugins"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:237
+msgid "Select this function, there is no need to select the function below."
+msgstr ""
+
+#: includes/wp-white-label-hidden-plugin.php:37
+msgid "Select Users"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:82
+msgid "SubMenu Background Color"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:90
+msgid "SubMenu Color"
+msgstr ""
+
+#: includes/wp-white-label-hidden-plugin.php:56
+#: includes/wp-white-label-setting-page.php:92
+msgid "Support"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:205
+msgid "This will delete all widgets, It replaces the default dashboard page."
+msgstr ""
+
+#: includes/wp-white-label-functions.php:227
+msgid "To remove Dashboard Widgets below this feature needs to be enabled."
+msgstr ""
+
+#: includes/wp-white-label-functions.php:195
+msgid "Widget content"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:187
+msgid "Widget title"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:8
+msgid "WP White Label"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WP White Label allows your agency to customise WP branding, admin area, "
+"dashboard, and login logo."
+msgstr ""
+
+#: includes/wp-white-label-setting-page.php:36
+msgid "WP White Label Hidden"
+msgstr ""
+
+#. Name of the plugin
+#: includes/wp-white-label-setting-page.php:24
+msgid "WP White Label Pro"
+msgstr ""
+
+#: includes/wp-white-label-functions.php:112
+msgid "Your Website"
+msgstr ""
